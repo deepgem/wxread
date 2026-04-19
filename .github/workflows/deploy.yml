@@ -9,6 +9,14 @@ on:
     # 凌晨任务：北京时间
     - cron: '36 5 * * *'
       timezone: 'Asia/Shanghai'
+    - cron: '18 9 * * *'
+      timezone: 'Asia/Shanghai'
+    - cron: '18 12 * * *'
+      timezone: 'Asia/Shanghai'
+    - cron: '16 16 * * *'
+      timezone: 'Asia/Shanghai'
+    - cron: '12 19 * * *'
+      timezone: 'Asia/Shanghai'
   workflow_dispatch:  # 手动触发
 
 jobs:
