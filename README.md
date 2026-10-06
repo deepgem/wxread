@@ -133,4 +133,5 @@ book_chapters = [
 | `pc` | `"xxxxxxxxxxxxxxxxxxxxxxxx"` | 设备标识符或客户端标识符，用于标识用户的设备或客户端。 |
 | `s` | `"fadcb9de"` | 校验和或哈希值，用于验证请求数据的完整性。 |
 
-
+## 感谢
+- https://github.com/findmover/wxread
